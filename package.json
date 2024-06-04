@@ -1,0 +1,26 @@
+{
+  "name": "duelango",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vueuse/core": "^10.9.0",
+    "axios": "^1.7.2",
+    "core-js": "^3.8.3",
+    "curl": "^0.1.4",
+    "express": "^4.19.2",
+    "json-server": "^1.0.0-alpha.23",
+    "node.js": "^0.0.1-security",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
